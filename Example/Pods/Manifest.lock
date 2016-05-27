@@ -1,0 +1,16 @@
+PODS:
+  - Neolib (0.1.0)
+
+DEPENDENCIES:
+  - Neolib (from `../`)
+
+EXTERNAL SOURCES:
+  Neolib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Neolib: 526f46ca39dd1200f3902c85e0e93a7dff7aba06
+
+PODFILE CHECKSUM: cd9702a4ea63e4b2fdad569b5b25390748a559cc
+
+COCOAPODS: 1.0.0

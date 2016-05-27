@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Neolib_Tests' do
+  pod 'Neolib', :path => '../'
+  
+  
+end

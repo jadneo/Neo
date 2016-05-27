@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9BCCD28B5FAE8B43E4FBF03676FA71C9B91F4162+++FD19D88",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9BCCD28B5FAE8B43E4FBF03676FA71C9B91F4162+++3E92426" : 0,
+    "9BCCD28B5FAE8B43E4FBF03676FA71C9B91F4162+++FD19D88" : 0,
+    "9BCCD28B5FAE8B43E4FBF03676FA71C9B91F4162+++595BAA7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "23591C7D-141B-4807-9B5D-EB2CD81C4B22",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9BCCD28B5FAE8B43E4FBF03676FA71C9B91F4162+++3E92426" : "Neo.git\/Neolib\/Classes\/Neo\/",
+    "9BCCD28B5FAE8B43E4FBF03676FA71C9B91F4162+++FD19D88" : "Neo.git\/",
+    "9BCCD28B5FAE8B43E4FBF03676FA71C9B91F4162+++595BAA7" : "Neo.git\/Neolib\/Classes\/Neo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Neolib",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/Neolib.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jadneo\/Neo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9BCCD28B5FAE8B43E4FBF03676FA71C9B91F4162+++3E92426"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jadneo\/Neo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9BCCD28B5FAE8B43E4FBF03676FA71C9B91F4162+++595BAA7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jadneo\/Neo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9BCCD28B5FAE8B43E4FBF03676FA71C9B91F4162+++FD19D88"
+    }
+  ]
+}

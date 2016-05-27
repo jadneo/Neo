@@ -1,0 +1,6 @@
+framework module Neolib {
+  umbrella header "Neolib-umbrella.h"
+
+  export *
+  module * { export * }
+}

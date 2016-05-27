@@ -1,9 +1,9 @@
 {
   "name": "Neolib",
-  "version": "0.1.0",
-  "summary": "A short description of Neolib.",
+  "version": "0.0.1",
+  "summary": "Category",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/Neolib",
+  "homepage": "https://github.com/jadneo/Neo",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "Neo": "190735345@qq.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/Neolib.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/jadneo/Neo.git",
+    "tag": 0.01
   },
   "platforms": {
     "ios": "8.0"

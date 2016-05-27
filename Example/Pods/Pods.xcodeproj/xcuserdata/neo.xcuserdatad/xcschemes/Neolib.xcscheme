@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'D5DDFD4940238873910EF09D79EF4534'
+               BlueprintIdentifier = 'FF2623BE2FBF6D0C52ED50C949C99DEF'
                BlueprintName = 'Neolib'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Neolib.framework'>

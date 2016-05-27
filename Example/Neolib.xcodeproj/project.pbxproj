@@ -30,7 +30,7 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		997ECEFBC980B1EC557081ED /* Pods-Neolib_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Neolib_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Neolib_Tests/Pods-Neolib_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		A4CDEDE27E33C9F8FEA249E4 /* Neolib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Neolib.podspec; path = ../Neolib.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.perl; };
+		A4CDEDE27E33C9F8FEA249E4 /* Neolib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Neolib.podspec; path = ../Neolib.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

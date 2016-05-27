@@ -5,6 +5,7 @@
 //  Created by beinie on 15/7/2.
 //
 //
+#import "NSMutableArray+Category.h"
 
 @implementation NSArray (Category)
 

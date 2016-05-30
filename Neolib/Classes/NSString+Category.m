@@ -229,30 +229,12 @@
 {
     CGSize size =   [self boundingRectWithSize:maxSize
                                        options:NSStringDrawingUsesLineFragmentOrigin
-                                    attributes:@{NSFontAttributeName : BTFont(fontSize)}
+                                    attributes:@{NSFontAttributeName : [UIFont systemFontOfSize:fontSize]}
                                        context:nil].size;
     return CGSizeMake(ceilf(size.width), ceilf(size.height));
 }
 
-+ (NSString *)dateStringWithCreateTimeFromString:(NSString *)createTime
-{
-    NSString *dateString = @"";
-    
-    NSDateFormatter *formatter = [[NSDateFormatter alloc] init];
-    formatter.dateFormat = @"YYYY-MM-dd HH:mm:ss";
-    NSDate *create_date = [NSDate dateWithTimeIntervalSince1970:[createTime longLongValue]];
-    
-    if ([create_date rx_isToday])
-    {
-        formatter.dateFormat = @"HH:mm";
-        dateString = [formatter stringFromDate:create_date];
-    } else {
-        formatter.dateFormat = @"YYYY-MM-dd";
-        dateString = [formatter stringFromDate:create_date];
-    }
-    
-    return dateString;
-}
+
 
 
 /**

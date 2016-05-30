@@ -68,14 +68,7 @@
  */
 - (CGSize)titleSizeWithfontSize:(CGFloat)fontSize maxSize:(CGSize)maxSize;
 
-/**
- *  根据时间戳字符串返回指定格式的时间字符串
- *
- *  @param createTime 时间戳
- *
- *  @return 返回时间字符串
- */
-+ (NSString *)dateStringWithCreateTimeFromString:(NSString *)createTime;
+
 
 /**
  *  根据时间戳字符串返回指定格式的年月日字符串

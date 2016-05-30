@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/jadneo/Neo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Neo' => '190735345@qq.com' }
+  s.author           = { 'Neo' => '' }
   s.source           = { :git => 'https://github.com/jadneo/Neo.git', :tag => 0.01 }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
